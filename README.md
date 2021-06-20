@@ -13,3 +13,5 @@ Finalmente el software crea nuevos vuelos y se van viendo actualizados en la tab
 La base de datos contiene la información de ciudades y aerolineas que serán cargadas en los ComboBox
 
 ![soft](https://github.com/mikesneider/TestCarvajal/blob/main/Info/App.gif)
+
+Si quieren ver el proyecto, es necesario tener instalado [VisualStudio](https://visualstudio.microsoft.com/es/vs/) y abrir el archivo "MichaelPuentesPruebaCarvajal.sln"
